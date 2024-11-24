@@ -1,0 +1,1 @@
+import{v as n,o as s,c as o,b as t,w as _,a as l,D as e,ar as i}from"./index-66b11b59.js";const u="/spike-vue-free/assets/logo-dark-094c715a.svg",p={class:"logo"},d=["src"],m=n({setup(a){return(c,r)=>(s(),o("div",p,[t(e(i),{to:"/"},{default:_(()=>[l("img",{src:e(u),alt:"home"},null,8,d)]),_:1})]))}}),h={setup(a){return(c,r)=>(s(),o("div",null,[t(m)]))}};export{h as _};
