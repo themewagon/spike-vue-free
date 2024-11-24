@@ -13,6 +13,9 @@ export default defineConfig({
         })
     ],
     base: "/spike-vue-free/",
+    build: {
+        outDir: 'dist'
+    },
     resolve: {
         alias: {
             '@': fileURLToPath(new URL('./src', import.meta.url))
