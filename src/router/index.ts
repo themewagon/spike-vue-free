@@ -3,7 +3,7 @@ import MainRoutes from './MainRoutes';
 import AuthRoutes from './AuthRoutes';
 
 export const router = createRouter({
-    history: createWebHistory('/spike-vue-free/'),
+    history: createWebHistory(import.meta.env.BASE_URL),
     routes: [
         {
             path: '/:pathMatch(.*)*',
