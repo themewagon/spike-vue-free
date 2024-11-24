@@ -32,7 +32,7 @@ import ProductCards from '@/components/dashboards/ProductCards.vue';
         </v-col>
         <v-col class="text-center mt-2 d-md-flex justify-md-space-between">
             <p class="text-muted mb-2 mb-md-0">
-                Destributed By
+                Destributed by
                 <a flat variant="text" href="https://www.themewagon.com/" target="_blank" class="pl-1 text-primary">ThemeWagon</a>
             </p>
 
