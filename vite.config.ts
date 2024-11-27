@@ -13,9 +13,6 @@ export default defineConfig({
         })
     ],
     base: "/spike-vue-free/",
-    build: {
-        outDir: 'dist'
-    },
     resolve: {
         alias: {
             '@': fileURLToPath(new URL('./src', import.meta.url))
@@ -30,9 +27,9 @@ export default defineConfig({
         exclude: ['vuetify'],
         entries: ['./src/**/*.vue']
     },
-    // build: {
-    //     rollupOptions: {
-    //         treeshake:  false 
-    //     }
-    // },
+    build: {
+        rollupOptions: {
+            treeshake: false
+        }
+    },
 });
