@@ -17,12 +17,12 @@ https://github.com/themewagon/spike-vue-free.git
 
 ## Author
 
-Design and code is completely written by Wrappixel's design and development team.  
+Design and code are completely written by the WrapPixel design and development team.  
 
 
 ## License
 
- - Design and Code is Copyright &copy; [HTML Design](https://wrappixel.com/)
- - Licensed cover under [MIT]
+ - Design and Code is Copyright &copy; [WrapPixel](https://wrappixel.com/)
+ - Licensed under [MIT]
  - Distributed by [ThemeWagon](https://themewagon.com)
 
