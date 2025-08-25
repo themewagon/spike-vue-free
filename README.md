@@ -1,29 +1,28 @@
-# README
+# Spike VueJS – Free Responsive VueJS Admin Dashboard Template
 
-This README would normally document whatever steps are necessary to get your application up and running.
+#### Preview
 
-### What is this repository for?
+ - [Demo](https://themewagon.github.io/spike-vue-free/)
 
--   Quick summary
--   Version
--   [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+#### Download
+ - [Download from ThemeWagon](https://themewagon.com/themes/spike/)
+ 
+ 
+## Getting Started
 
-### How do I get set up?
+Clone from GitHub 
+```
+https://github.com/themewagon/spike-vue-free.git
+```
 
--   Summary of set up
--   Configuration
--   Dependencies
--   Database Configuration
--   How to run tests
--   Deployment instructions
+## Author
 
-### Contribution guidelines
+Design and code is completely written by Wrappixel's design and development team.  
 
--   Writing tests
--   Code review
--   Other guidelines
 
-### Who do I talk to?
+## License
 
--   Repo owner or admin
--   Other community or team contact
+ - Design and Code is Copyright &copy; [HTML Design](https://wrappixel.com/)
+ - Licensed cover under [MIT]
+ - Distributed by [ThemeWagon](https://themewagon.com)
+
